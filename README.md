@@ -1,22 +1,40 @@
 <h1 align="center">Hi 👋, I'm Haleema Khatun</h1>
-<h3 align="center">A Passionate Developer from India 🇮🇳</h3>
+<h3 align="center">Software Developer | Problem Solver | Tech Enthusiast 🚀</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently learning and building real-world projects  
-- 💡 Interested in AI, Full-Stack Development & Problem Solving  
-- 🚀 Love turning ideas into working code  
-- 🎯 Goal: To become a skilled software developer  
+- 🎓 Strong foundation in Core Computer Science
+- 🧠 Passionate about Data Structures & System Design
+- 🌱 Currently exploring scalable backend systems
+- 🚀 Goal: To build impactful and efficient software solutions
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
+
+#### 💻 Programming
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+
+#### 🧠 Core CS
+- Data Structures  
+- Object-Oriented Programming  
+- Operating Systems  
+- SDLC  
+- Linux  
+
+#### ⚙️ Frameworks & Tools
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+ 
+- CI/CD Tools  
+- Tableau  
 
 ---
 
@@ -31,14 +49,17 @@
 
 ---
 
+### 🌟 Soft Skills
+- Analytical Thinking  
+- Communication  
+- Teamwork  
+- Adaptability  
+
+---
+
 ### 🔥 Quote I Believe In
-> "Consistency beats talent when talent doesn’t work hard."
+> "First, solve the problem. Then, write the code."
 
 ---
 
-### 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/haleema-khatun-13519b334/
-
----
-
-⭐ From Haleema with passion ❤️
+⭐ From Haleema with dedication 💙
