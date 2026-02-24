@@ -57,6 +57,16 @@
 
 ---
 
+### 🏆 Achievements & Certifications
+
+- ☁️ **AWS Academy — Cloud Foundations**
+- 🌩️ **IBM SkillBuild — Cloud Computing**
+- 🤖 **Oracle Certified Professional — Generative AI**
+- 🏅 **Gen AI Exchange Hackathon (National Level Participant)**
+- 🥇 **Cognitive X Hackathon — Top 10 Team**
+
+---
+
 ### 🔥 Quote I Believe In
 > "First, solve the problem. Then, write the code."
 
