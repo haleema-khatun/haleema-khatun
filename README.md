@@ -24,7 +24,11 @@
 - Object-Oriented Programming  
 - Operating Systems  
 - SDLC  
-- Linux  
+- Linux
+- Artificial Intelligence and Machine Learning
+- LLM
+- NLP
+- DevOps
 
 #### ⚙️ Frameworks & Tools
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
@@ -34,7 +38,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
  
 - CI/CD Tools  
-- Tableau  
+- Tableau
+- Data Visualization Tools
+  
 
 ---
 
