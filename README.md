@@ -2,6 +2,13 @@
 <h3 align="center">Software Developer | Problem Solver | Tech Enthusiast 🚀</h3>
 
 ---
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: [Haleema Khatun](https://www.linkedin.com/in/haleema-khatun-13519b334/)
+- 💻 LeetCode: [haleemakhatun](https://leetcode.com/u/haleemakhatun/)
+- 🌍 Portfolio: [My Portfolio](https://haleemaportfolio.lovable.app/)
+
+---
 
 ### 👩‍💻 About Me
 - 🎓 Strong foundation in Core Computer Science
